@@ -1,0 +1,5 @@
+.panel > .panel-heading {
+  background-color: gray;
+  color: white;
+  text-align: center;
+}
